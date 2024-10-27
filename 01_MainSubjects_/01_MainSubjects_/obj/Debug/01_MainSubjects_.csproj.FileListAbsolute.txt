@@ -1,7 +1,0 @@
-C:\Users\Monster\source\repos\CSharpEgitimKampi\01_MainSubjects_\obj\Debug\01_MainSubjects_.csproj.AssemblyReference.cache
-C:\Users\Monster\source\repos\CSharpEgitimKampi\01_MainSubjects_\obj\Debug\01_MainSubjects_.csproj.CoreCompileInputs.cache
-C:\Users\Monster\source\repos\CSharpEgitimKampi\01_MainSubjects_\bin\Debug\01_MainSubjects_.exe.config
-C:\Users\Monster\source\repos\CSharpEgitimKampi\01_MainSubjects_\bin\Debug\01_MainSubjects_.exe
-C:\Users\Monster\source\repos\CSharpEgitimKampi\01_MainSubjects_\bin\Debug\01_MainSubjects_.pdb
-C:\Users\Monster\source\repos\CSharpEgitimKampi\01_MainSubjects_\obj\Debug\01_MainSubjects_.exe
-C:\Users\Monster\source\repos\CSharpEgitimKampi\01_MainSubjects_\obj\Debug\01_MainSubjects_.pdb
